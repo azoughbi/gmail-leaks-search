@@ -25,8 +25,6 @@ mysql_select_db($db_database);
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <meta property="og:image" content="https://azoughbi.me/content/uploads/gmail-logo-34666.jpg" />
-    <meta property="og:description" content="A list of almost five million Gmail addresses and passwords. You can check if your email is leaked here" />
     <!-- Custom styles for this template -->
     <link href="css/starter-template.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
