@@ -21,7 +21,7 @@ mysql_select_db($db_database);
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Ahmad Zoughbi Blog | Gmail leaks</title>
+    <title>Gmail leaks</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@ function validateForm() {
       <div class="container">
         <div class="navbar-header">
 
-          <a class="navbar-brand" href="#">Ahmad Zoughbi | Gmail leaks</a>
+          <a class="navbar-brand" href="#">Gmail leaks</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
